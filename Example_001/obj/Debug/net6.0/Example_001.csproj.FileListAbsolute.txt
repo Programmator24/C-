@@ -1,0 +1,15 @@
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/bin/Debug/net6.0/Example_001
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/bin/Debug/net6.0/Example_001.deps.json
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/bin/Debug/net6.0/Example_001.runtimeconfig.json
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/bin/Debug/net6.0/Example_001.dll
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/bin/Debug/net6.0/Example_001.pdb
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/Example_001.csproj.AssemblyReference.cache
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/Example_001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/Example_001.AssemblyInfoInputs.cache
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/Example_001.AssemblyInfo.cs
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/Example_001.csproj.CoreCompileInputs.cache
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/Example_001.dll
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/refint/Example_001.dll
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/Example_001.pdb
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/Example_001.genruntimeconfig.cache
+/Users/dianabarysnikova/Desktop/Никита/Программатор/Examples/Example_001/obj/Debug/net6.0/ref/Example_001.dll
